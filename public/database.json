@@ -1,0 +1,191 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "name": "Mercedes-Benz S 500",
+      "price": 2500000,
+      "power": "4.4 л",
+      "maxSpeed": "250 км/ч",
+      "speedFor100": "4.5 сек",
+      "color": "black",
+      "mark": "Mercedes-Benz",
+      "model": "S 500",
+      "generation": "2021",
+      "img": "https://www.avtorinok.ru/photo/pics/mercedes-benz/cl63-amg/80444.jpg",
+      "description": "2021 г., автомат, 4.4 л, бензин, 13 900 км седан, постоянный полный привод, чёрный",
+      "comment": [],
+      "complectation": [
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        },
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        }
+      ],
+      "colors": ["red", "blue", "green", "yellow"]
+    },
+    {
+      "id": 3,
+      "name": "Mercedes-Benz S 200 ",
+      "price": 2000000,
+      "power": "4.4 л",
+      "maxSpeed": "250 км/ч",
+      "speedFor100": "4.5 сек",
+      "color": "black",
+      "mark": "Mercedes-Benz",
+      "model": "X325",
+      "generation": "2019",
+      "comment": [],
+      "img": "https://infosmi.net/wp-content/uploads/2018/10/mercedes-benz-s-class1.jpg",
+      "description": "2021 г., автомат, 4.4 л, бензин, 13 900 км седан, постоянный полный привод, чёрный",
+
+      "complectation": [
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        },
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        }
+      ],
+      "colors": ["red", "blue", "green", "yellow"]
+    },
+    {
+      "id": 2,
+      "name": "Mercedes-Benz M 500",
+      "price": 2530000,
+      "power": "4.4 л",
+      "maxSpeed": "250 км/ч",
+      "speedFor100": "4.5 сек",
+      "color": "black",
+      "comment": [],
+      "mark": "Mercedes-Benz",
+      "model": "S 500 4MATIC",
+      "generation": "2019",
+      "img": "https://img.favcars.com/mercedes-benz/cls-klasse/images_mercedes-benz_cls-klasse_2010_25.jpg",
+      "description": "2021 г., автомат, 4.4 л, бензин, 13 900 км седан, постоянный полный привод, чёрный",
+
+      "complectation": [
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        },
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        }
+      ],
+      "colors": ["red", "blue", "green", "yellow"]
+    },
+    {
+      "id": 4,
+      "name": "BMW X5",
+      "price": 2500000,
+      "power": "4.4 л",
+      "comment": [],
+      "maxSpeed": "250 км/ч",
+      "speedFor100": "4.5 сек",
+      "color": "black",
+      "mark": "BMW",
+      "model": "X5",
+      "generation": "2019",
+      "img": "https://mobimg.b-cdn.net/v3/fetch/d2/d218331f1843747dd6adb695f555ebeb.jpeg",
+      "description": "2021 г., автомат, 4.4 л, бензин, 13 900 км седан, постоянный полный привод, чёрный",
+
+      "complectation": [
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        },
+        {
+          "name": "Mercedes-Benz",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        }
+      ],
+      "colors": ["red", "blue", "green", "yellow"]
+    },
+    {
+      "id": 5,
+      "name": "BMW 200",
+      "price": 1200000,
+      "power": "4.4 л",
+      "comment": [],
+      "maxSpeed": "250 км/ч",
+      "speedFor100": "4.5 сек",
+      "color": "black",
+      "mark": "BMW",
+      "model": "X1",
+      "generation": "2019",
+      "img": "https://c.wallhere.com/photos/b4/e0/car-175757.jpg!d",
+      "description": "2021 г., автомат, 4.4 л, бензин, 13 900 км седан, постоянный полный привод, чёрный",
+
+      "complectation": [
+        {
+          "name": "BMW",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        },
+        {
+          "name": "BMW",
+          "power": "4.4 л",
+          "transmission": "Механика",
+          "speedFor100": "4.5 сек"
+        }
+      ],
+      "colors": ["red", "blue", "green", "yellow"]
+    },
+
+    {
+      "id": 7,
+      "name": "BMW X1",
+      "price": 1200400,
+      "power": "4.4 л",
+      "comment": [],
+      "maxSpeed": "250 км/ч",
+      "speedFor100": "4.5 сек",
+      "color": "black",
+      "mark": "BMW",
+      "model": "X1",
+      "generation": "2019",
+
+      "img": "https://proprikol.ru/wp-content/uploads/2019/10/kartinki-bmv-14.jpg",
+      "description": "2021 г., автомат, 4.4 л, бензин, 13 900 км седан, постоянный полный привод, чёрный",
+
+      "complectation": [
+        {
+          "name": "BMW",
+          "power": "4.4 л",
+          "transmission": "Автомат",
+          "speedFor100": "4.5 сек"
+        },
+        {
+          "name": "BMW",
+          "power": "4.4 л",
+          "transmission": "Механика",
+          "speedFor100": "4.5 сек"
+        }
+      ],
+      "colors": ["red", "blue", "green", "yellow"]
+    }
+  ]
+}
