@@ -1,0 +1,24 @@
+.Footer {
+    margin-top: 50px;
+}
+
+.Footer .wrapper {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Footer .wrapper .icons {
+    display: flex;
+    gap: 20px;
+}
+.Footer .wrapper .icons .img {
+    width: 50px;
+    height: 60px;
+}
+
+.author{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+  
